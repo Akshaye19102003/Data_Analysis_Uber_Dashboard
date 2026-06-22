@@ -26,7 +26,7 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 
 ## 📍 Location Analysis
 
-![Location Analysis](images/location_analysis.png)
+- <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/time_alaysis.png">Time_analyis</a>
 
 ### Key Highlights
 - Compares bookings across different cities.
