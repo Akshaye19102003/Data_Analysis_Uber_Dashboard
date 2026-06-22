@@ -42,9 +42,8 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 - Microsoft Excel
 
 ## 📂 Files
-- `Uber_Dashboard.pbix`
-- `Uber_Project_Report.pdf`
-- `README.md`
+
+
 
 
 
