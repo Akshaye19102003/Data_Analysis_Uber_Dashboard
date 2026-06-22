@@ -42,6 +42,7 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 
 ## Dashboard
 
+<img width="1322" height="743" alt="Overview" src="https://github.com/user-attachments/assets/fac20cd0-2587-43f8-a6bb-6d8a1cc72184" />
 
 
 ## 🛠️ Tools Used
