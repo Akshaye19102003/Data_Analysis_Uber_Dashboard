@@ -24,3 +24,15 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 - Supports filtering by city, trip type, and vehicle type.
 
 
+## 📍 Location Analysis
+
+![Location Analysis](images/location_analysis.png)
+
+### Key Highlights
+- Compares bookings across different cities.
+- Analyzes Day Trips vs Night Trips.
+- Shows weekly booking trends.
+- Highlights the top 5 cities by total bookings.
+- Provides interactive filters for deeper exploration.
+
+
