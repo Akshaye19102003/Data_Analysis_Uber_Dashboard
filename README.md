@@ -20,3 +20,8 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 - Uber_Dashboard.pbix
 - Uber_Project_Report.pdf
 - Dataset 
+
+## 📑 Dashboard Pages
+- [Overview](#-overview)
+- [Time Analysis](#-time-analysis)
+- [Location Analysis](#-location-analysis)
