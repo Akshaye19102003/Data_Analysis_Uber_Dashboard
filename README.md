@@ -14,7 +14,7 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 
 ## ⏰ Time Analysis
 
-- <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/time_alaysis.png">Time analyis</a>
+- <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/time_alaysis.png">Time_analyis</a>
 
 ### Key Highlights
 - Identifies booking distribution across days of the week.
