@@ -40,6 +40,10 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 - Highlights the top 5 cities by total bookings.
 - Provides interactive filters for deeper exploration.
 
+## Dashboard
+
+
+
 ## 🛠️ Tools Used
 - Power BI
 - Power Query
