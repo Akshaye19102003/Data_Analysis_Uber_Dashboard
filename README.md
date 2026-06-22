@@ -1,6 +1,11 @@
 # Data_Analysis_Uber_Dashboard
 This project analyzes Uber trip data using Power BI to provide insights into bookings, revenue, trip distance, payment methods, and location trends.
 
+## 📑 Dashboard Pages
+- Overview
+- Time analysis
+- Location Analysis
+
 ## 📌 Overview
 
 - <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/Overview.png">Overview</a>
