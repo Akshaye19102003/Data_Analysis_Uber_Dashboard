@@ -3,7 +3,7 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 
 ## 📌 Overview
 
-![Overview](images/overview.png)
+- <a href=
 
 ### Key Highlights
 - Displays Total Bookings, Total Booking Value, and Total Trip Distance.
