@@ -1,23 +1,15 @@
 # Data_Analysis_Uber_Dashboard
 This project analyzes Uber trip data using Power BI to provide insights into bookings, revenue, trip distance, payment methods, and location trends.
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
+## 📌 Overview
 
-## Dashboard Features
-- Total Bookings
-- Total Booking Value
-- Trip Distance Analysis
-- Payment Method Analysis
-- Peak Hour Analysis
-- Day vs Night Trips
-- City-wise Booking Analysis
+![Overview](images/overview.png)
 
-## Files
-- Uber_Dashboard.pbix
-- Uber_Project_Report.pdf
-- Dataset 
+### Key Highlights
+- Displays Total Bookings, Total Booking Value, and Total Trip Distance.
+- Analyzes daily booking trends using a line chart.
+- Shows top pickup and dropoff locations.
+- Compares bookings by payment method.
+- Includes vehicle-wise performance metrics.
+
 
