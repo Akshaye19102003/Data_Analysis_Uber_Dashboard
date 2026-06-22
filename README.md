@@ -42,7 +42,7 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 - Microsoft Excel
 
 ## 📂 Files
-- <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/Location_analysis.png">Location_analysis</a>
+- <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/Uber_Project_Report.pdf">Uber Report</a>
 
 
 
