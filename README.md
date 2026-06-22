@@ -44,6 +44,10 @@ This project analyzes Uber trip data using Power BI to provide insights into boo
 ## 📂 Files
 - <a href="https://github.com/Akshaye19102003/Data_Analysis_Uber_Dashboard/blob/main/Uber_Project_Report.pdf">Uber Report.pdf</a>
 
+## 📌 Conclusion
+
+This dashboard provides valuable insights into Uber trip data by analyzing booking trends, trip patterns, payment methods, and location performance. It demonstrates the use of Power BI, DAX, and data visualization techniques to support data-driven decision-making.
+
 
 
 
